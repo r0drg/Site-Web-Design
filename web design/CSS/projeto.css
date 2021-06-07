@@ -1,0 +1,72 @@
+body{
+	background-image: url("fundo.jpg");
+	background-attachment:fixed;
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-color:#000;
+}
+#fundo_1{
+	background-color: #000000ba;
+}
+#perfil {
+	border-radius: 50%;
+}
+#fonte{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+}
+
+#texto{
+	font-size: 35px;
+	color: white;
+}
+
+#perfil{
+	border-radius: 50%;
+	position: relative;
+	left: 40%;
+}
+
+#contact{
+	position: relative;
+	right: 0%;
+	left: 26%;
+	bottom: -3%;
+	color: white;
+	font-size: 180%;
+}
+#sobreMim{
+	color: white;
+}
+#info{
+	font-size: 140%;
+	position: relative;
+	color: white;
+}
+#fundo_2{
+	background-color: #000000ba;
+}
+#contato{
+	font-size: 270%;
+	color: white;
+}
+#link{
+	color: white;
+	font-size: 220%;
+}
+#instagram{
+	height: 100px;
+	width: 100px;
+}
+#github{
+	height: 100px;
+	width: 100px;
+}
+#facebook{
+	height: 100px;
+	width: 100px;
+}
+#cenourinha{
+	bottom: 30px;
+}
